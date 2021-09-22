@@ -1,3 +1,22 @@
+#Osama Hussain
+#This is my week 2 assignment
+
+#Object 1
+subway = {
+    "train_name": "A",
+	"terminal": "Inwood_207_st",
+	"destination": "168_st",
+	"stop_duration": 2,
+	"speed": 200,
+	"fuel_type": "electric",
+	"delay": false,
+	"carriage": "3016",
+	"capacity": 56,
+	"passengers": 35,
+	"no_mask": 4,
+	"seat_availability": "Low"
+}
+
 #This is the MadLib activity
 # let the user know what's going on
 print ("Welcome to MadLibs!")
