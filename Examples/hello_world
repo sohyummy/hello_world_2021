@@ -1,0 +1,19 @@
+Alan = False
+print(Alan)
+
+#string
+myName = "Osama"
+print (myName)
+
+var1 = "fuck"
+var2 = "off"
+print(var1 + " " + var2)
+
+myFavoriteGames = ["Fifa" , "COD" , "Forza"] , ["Football" , "Cricket" , "Tennis"]
+x = 1
+y = 0
+#print(myFavoriteGames)
+print("my favourite game is" + " " + myFavoriteGames[x][y])
+
+myAnimal = {"name": "DOGG", "size": "big"}
+print (myAnimal)
