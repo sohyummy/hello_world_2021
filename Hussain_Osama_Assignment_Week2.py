@@ -9,13 +9,77 @@ subway = {
 	"stop_duration": 2,
 	"speed": 200,
 	"fuel_type": "electric",
-	"delay": false,
+	"delay": False,
 	"carriage": "3016",
 	"capacity": 56,
 	"passengers": 35,
 	"no_mask": 4,
 	"seat_availability": "Low"
 }
+
+# #Object 2
+# smartPhone = 
+# 	"Make": "Apple"
+# 	"Model": "7 Pro"
+# 	"Color": "Green"	
+#     "Capacity" "256gb"
+# 	"Processor" name ring)
+# 	"Processor" 
+# 	"Mey" (numeal)
+# 	"Screen" size creen" resolon
+# 	"Camera"
+# 	"Secty" (fingrint, face recognition, voice, retina, etc.)
+# 	"Environment" resisce (water, dust, shock, etc.)
+# 	"5G": true
+
+# I did 
+# #Object 2
+# House
+# 	- Door
+# 	- Windows
+# 	- Flooring
+# 	- Ceiling
+# 	- Paint 
+# 	- Utilities (electricity, water, gas)
+# 	- Facing direction
+# 	- Rooms
+# 	- Floors
+# 	- Smart
+# 	- Garden
+# 	- Square footage
+# 	- Furnished
+# 	- Appliances 
+# 	- How far away is the supermarket?
+# 	- How far away is the school? 
+# 	- How far away is the subway? 
+# 	- Availability? 
+# 	- Price
+# 	- Condition
+# 	- Infestations
+# 	- Square footage 
+# 	- Cleanliness of the neighborhood
+# 	- Broker
+
+# Bowling
+# 	- 8 pins
+# 	- 60 feet long lane
+# 	- Type of bowling bowl (plastic, urethane, reactive)
+# 	- Weight of ball
+# 	- Current frame
+# 	- Remaining frame
+# 	- Player chance
+# 	- Gutter
+# 	- How many pins remaining
+# 	- Score
+# 	- Number of players
+
+# Stock
+# 	- Ticker
+# 	- Company name
+# 	- Industry
+# 	- Current price
+# 	- Price change (dod, mom, yoy)
+# Financial statement (revenue, net profit, EBITDA, EPS, DPS)
 
 #This is the MadLib activity
 # let the user know what's going on
