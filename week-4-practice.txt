@@ -1,0 +1,36 @@
+for x in range(1,10):
+    print(x)
+
+
+# noStudent = 21
+# for x in range(1, noStudent):
+
+#print count how many times
+# def countNumber():
+#     print("count")
+
+# for x in range(1,10):
+#     countNumber()
+
+def countNumber(theNumber):
+    print("count: " + str(theNumber))
+
+countTimes = 10
+for value in range(1,countTimes):
+    countNumber(value)
+
+# for x in range(1,10):
+#     countNumber()
+
+
+'''
+items = ["1" , "2" , "3"]
+
+for item in items:
+    print(item)
+
+for x in range(len(items)):
+    print("x is" + str(x))
+    print("item is " + items[x])
+'''
+
